@@ -43,10 +43,10 @@
   margin: 10px;
 }
 [lumina_button="material"][ lumina_color="red"]:hover {
-  background: #ef5350 radial-gradient(circle, transparent 1%, #ef5350 1%) center/15000%;
+  background: #f44336 radial-gradient(circle, transparent 1%, #f44336 1%) center/15000%;
 }
 [lumina_button="material"][ lumina_color="red"]:active {
-  background-color: #f44336;
+  background-color: #ef5350;
   background-size: 100%;
   transition: background 0s;
 }
