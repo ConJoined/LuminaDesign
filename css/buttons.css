@@ -177,17 +177,21 @@ lumina_link[design="material"], [lumina_link="material"] {
 
 lumina_link[design="material"][padded], [lumina_link="material"][padded] {
 	padding: 12px 18px;
+	box-shadow: 0px 0px 0px;
 }
 
 lumina_link[design="material"], [lumina_link="material"] {
   background-position: center;
   transition: background 0.8s;
+	box-shadow: 0px 0px 0px;
 }
 lumina_link[design="material"]:hover, [lumina_link="material"]:hover {
   background: rgba(0,0,0,0.1) radial-gradient(circle, transparent 1%, rgba(0,0,0,0) 1%) center/15000%;
+	box-shadow: 0px 0px 0px;
 }
 lumina_link[design="material"]:active, [lumina_link="material"]:active {
   background-color: rgba(0,0,0,0);
   background-size: 100%;
   transition: background 0s;
+	box-shadow: 0px 0px 0px;
 }
