@@ -171,7 +171,6 @@ lumina_link[design="material"], [lumina_link="material"] {
   cursor: pointer;
   color: black;
   background-color: rgba(0,0,0,0);
-  box-shadow: 0 0 4px #999;
   outline: none;
   margin: 10px;
 }
