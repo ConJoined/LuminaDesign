@@ -184,7 +184,7 @@ lumina_link[design="material"], [lumina_link="material"] {
 lumina_link[design="material"]:hover, [lumina_link="material"]:hover {
   background: rgba(198,198,198,0.1) radial-gradient(circle, transparent 1%, rgba(255,255,255,0) 1%) center/15000%;
 }
-[lumina_button="material"]:active {
+lumina_link[design="material"]:active, [lumina_link="material"]:active {
   background-color: rgba(255,255,255,0);
   background-size: 100%;
   transition: background 0s;
