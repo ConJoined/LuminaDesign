@@ -190,7 +190,7 @@ lumina_link[design="material"]:hover, [lumina_link="material"]:hover {
 	text-shadow: 0px 0px 0px;
 }
 lumina_link[design="material"]:active, [lumina_link="material"]:active {
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0,0,0,0.2);
   background-size: 100%;
   transition: background 0s;
 	text-shadow: 0px 0px 0px;
